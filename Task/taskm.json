@@ -47,7 +47,7 @@
         "5 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js, tag=中国联通, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10010.png, enabled=false",
         "5 6 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js, tag=喜马拉雅, img-url=https://raw.githubusercontent.com/Orz-3/task/master/ximalaya.png, enabled=false",
         "50 10 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/flow.js, tag=机场流量, img-url=https://raw.githubusercontent.com/Orz-3/task/master/airport.png, enabled=false",
-        "1 6 * * * https://raw.githubusercontent.com/dompling/Script/master/xiaomiyp/xiaomiyp.js, tag=小米有品, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/xiaomiyp.png, enabled=false",
+        "1 6 * * * https://raw.githubusercontent.com/dompling/Script/master/xiaomiyp/xiaomiyp.js, tag=小米有品, img-url=https://raw.githubusercontent.com/Orz-3/task/master/xiaomiyp.png, enabled=false",
         "0 9,21 * * * https://raw.githubusercontent.com/lowking/Scripts/master/github/githubMonitor.js, tag=github tg推送, img-url=https://raw.githubusercontent.com/Orz-3/task/master/github.png, enabled=false",
         "0 9,21 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/github.js, tag=GitHub, img-url=https://raw.githubusercontent.com/Orz-3/task/master/github.png, enabled=false",
         "0 7 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js, tag=微博, img-url=https://raw.githubusercontent.com/Orz-3/task/master/weibo.png, enabled=false",
