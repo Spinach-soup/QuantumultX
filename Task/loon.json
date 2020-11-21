@@ -1,0 +1,64 @@
+#jd_task
+10 0,20 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_necklace.js, tag=点点劵, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png
+15 * * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_dreamFactory.js, tag=京喜工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png
+0 */3 * * * https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_factory.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png
+0 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/ddxw.js, tag=东东小窝, img-url=https://raw.githubusercontent.com/58xinian/icon/master/ddxw.png
+2 0 * * * https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_paopao.js, tag=京东泡泡大战, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_paopao.png
+30 8 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/jdjr_pigpet_Unfinish.js, tag=东东养猪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyz.png
+12 * * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pigPet.js, tag=金融养猪猪🐷, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyz.png
+*/3 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_daily_egg.js, tag=天天提鹅, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdte.png
+0 1-23/1 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_daily_egg.js, tag=天天提鹅, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdte.png
+11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png
+11 9 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=京东排行榜, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png
+0 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png
+1 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_redPacket.js, tag=京东全民开红包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png
+0 0 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/jdWuLiu.js, tag=京东物流, img-url=https://raw.githubusercontent.com/id77/QuantumultX/master/icon/jdWuLiu.png
+6 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/jddj/jddj.js, tag=京东到家, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jddj.png
+0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jingxi.js, tag=京喜, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jingxi.png
+5 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_club_lottery.js, tag=摇京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_shop.png
+10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_shop.js, tag=进店领豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_shop.png
+3 */2 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_moneyTree.js, tag=京东摇钱树, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyqs.png
+8 */3 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_speed.js, tag=京东天天加速, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdjs.png
+1 7-21/2 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_plantBean.js, tag=种豆得豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzd.png
+5 6-18/6 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_fruit.js, tag=东东农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png
+11 1-23/5 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_superMarket.js, tag=京小超, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png
+0 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_blueCoin.js, tag=京小超兑奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png
+5 6-18/6 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pet.js, tag=京东萌宠, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdmc.png
+15 */2 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy.js, tag=京东宠汪汪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png
+0 0-16/8 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_reward.js, tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png
+0 0,6 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_steal.js, tag=宠汪汪偷好友积分与狗粮, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png
+0 9 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_baiTiao.js, tag=京东白条, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/baitiao.png
+5 8 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/jdtqz.js, tag=京东特权值, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png
+0 2 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/jdczf/jdczf.js, tag=京东成长分, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jdczf.png
+30 11 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bean_change.js, tag=京豆变动通知, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_shop.png
+55 23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png
+5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js, tag=京东价格提醒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png
+30 9 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/jdWuLiu.js, tag=京东派件提醒, img-url=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Task/jd.png
+0 10 0 * * * https://raw.githubusercontent.com/XidNDD/2020scripts/master/jddsSign.js, tag=京东读书签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jdds.png
+#other
+30 17 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/yichahucha/cron_daily.js, tag=每日一句+蚂蚁森林收能量, img-url=https://raw.githubusercontent.com/Orz-3/task/master/corn.png
+0 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/backUp/webhook.js, tag=运行action, img-url=https://raw.githubusercontent.com/Orz-3/task/master/name.png
+5 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js, tag=中国联通, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10010.png
+15 17 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/backUp/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png
+10 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/quanx/smzdm.js, tag=什么值得买, img-url=https://raw.githubusercontent.com/Orz-3/task/master/smzdm.png
+10 0 * * * https://raw.githubusercontent.com/XidNDD/2020scripts/master/ttwbxcxSign.js, tag=天天挖矿小程序, img-url=https://raw.githubusercontent.com/Orz-3/task/master/ttwkxcx.png
+50 0 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js, tag=天天挖矿小程序, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/ttwk.png
+5 0 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/icbc_sign.js, tag=工银e生活, img-url=https://raw.githubusercontent.com/Orz-3/task/master/icbc.png
+5 6 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js, tag=喜马拉雅, img-url=https://raw.githubusercontent.com/Orz-3/task/master/ximalaya.png
+50 10 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/flow.js, tag=机场流量, img-url=https://raw.githubusercontent.com/Orz-3/task/master/airport.png
+1 6 * * * https://raw.githubusercontent.com/dompling/Script/master/xiaomiyp/xiaomiyp.js, tag=小米有品, img-url=https://raw.githubusercontent.com/Orz-3/task/master/xiaomiyp.png
+0 9,21 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/github.js, tag=GitHub, img-url=https://raw.githubusercontent.com/Orz-3/task/master/github.png
+0 9,21 * * * https://raw.githubusercontent.com/lowking/Scripts/master/github/githubMonitor.js, tag=github tg推送, img-url=https://raw.githubusercontent.com/Orz-3/task/master/github.png
+40 0 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js, tag=梨涡签到领现金, img-url=https://raw.githubusercontent.com/Orz-3/task/master/liwo.png
+12/30 0-8 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/wxdaka.js, tag=微信小程序打卡签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/qktx.png
+0 7 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js, tag=微博, img-url=https://raw.githubusercontent.com/Orz-3/task/master/weibo.png
+1 2 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Naixue/Naixue.js, tag=奈雪, img-url=https://raw.githubusercontent.com/Orz-3/task/master/Naixue.png
+15 * * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/YOUTH_READ.js, tag=中青阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png
+*/3 1-2 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png
+2 6 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.silver2coin.js, tag=硬币, img-url=https://raw.githubusercontent.com/Orz-3/task/master/bilibili.png
+1 6 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js, tag=bilibili, img-url=https://raw.githubusercontent.com/Orz-3/task/master/bilibili.png
+30 1 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js, tag=腾讯视频, img-url=https://raw.githubusercontent.com/Orz-3/task/master/videoqq.png
+1 1 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/quanx/neteasemusic.js, tag=网易云音乐, img-url=https://raw.githubusercontent.com/Orz-3/task/master/neteasemusic.png
+1 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://raw.githubusercontent.com/Orz-3/task/master/box.png
+0 10 0 * * * https://raw.githubusercontent.com/XidNDD/2020scripts/master/wsxqSign.js, tag= 微商星球, img-url=https://raw.githubusercontent.com/Orz-3/task/master/wsxq.png
+0 9 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付, img-url=https://raw.githubusercontent.com/Orz-3/task/master/unipay.png
