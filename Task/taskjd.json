@@ -40,7 +40,6 @@
 5 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js, tag=中国联通, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10010.png, enabled=false
 15 17 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/backUp/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=false
 10 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/quanx/smzdm.js, tag=什么值得买, img-url=https://raw.githubusercontent.com/Orz-3/task/master/smzdm.png, enabled=false
-#lxk0301 https://github.com/lxk0301/scripts
 10 0 * * * https://raw.githubusercontent.com/XidNDD/2020scripts/master/ttwbxcxSign.js, tag=天天挖矿小程序, img-url=https://raw.githubusercontent.com/Orz-3/task/master/ttwkxcx.png, enabled=false
 50 0 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js, tag=天天挖矿小程序, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/ttwk.png, enabled=false
 5 0 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/icbc_sign.js, tag=工银e生活, img-url=https://raw.githubusercontent.com/Orz-3/task/master/icbc.png, enabled=false
