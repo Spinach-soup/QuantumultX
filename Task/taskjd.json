@@ -33,6 +33,7 @@
 30 11 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bean_change.js, tag=京豆变动通知, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_shop.png, enabled=false
 55 23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=false
 5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js, tag=京东价格提醒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=false
+30 9 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/jdWuLiu.js, tag=京东派件提醒, img-url=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Task/jd.png, enabled=false
 0 10 0 * * * https://raw.githubusercontent.com/XidNDD/2020scripts/master/jddsSign.js, tag=京东读书签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jdds.png, enabled=false
 #other
 30 17 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/yichahucha/cron_daily.js, tag=每日一句+蚂蚁森林收能量, img-url=https://raw.githubusercontent.com/Orz-3/task/master/corn.png, enabled=false
