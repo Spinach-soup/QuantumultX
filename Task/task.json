@@ -8,7 +8,7 @@
 0 8 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png, enabled=false
 2 0 * * * https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_paopao.js, tag=京东泡泡大战, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_paopao.png, enabled=false
 5,45 8 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/jdjr_pigpet_Unfinish.js, tag=东东养猪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyz.png, enabled=false
-22 1-12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pigPet.js, tag=金融养猪猪🐷, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyz.png, enabled=false
+22 0-12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pigPet.js, tag=金融养猪猪🐷, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyz.png, enabled=false
 */3 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_daily_egg.js, tag=天天提鹅, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdte.png, enabled=false
 0 1-23/1 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_daily_egg.js, tag=天天提鹅, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdte.png, enabled=false
 11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=false
