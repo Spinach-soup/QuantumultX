@@ -1,9 +1,9 @@
 {
-  "id": "yangtingxiao.app.sub",
-  "name": "yangtingxiao 应用订阅",
-  "author": "@yangtingxiao",
-  "icon": "https://avatars3.githubusercontent.com/u/2059081",
-  "repo": "https://github.com/yangtingxiao/QuantumultX/tree/master/scripts/",
+  "id": "Spinach-soup.app.sub",
+  "name": "Spinach-soup 应用订阅",
+  "author": "@Spinach-soup",
+  "icon": "https://avatars3.githubusercontent.com/u/73296135?s=400&u=9f7d1f3ef6afa99a5044a8e434b11521e8b97f09&v=4",
+  "repo": "https://github.com/Spinach-soup/QuantumultX/TASK",
   "apps": [
     {
       "id": "领白条券",
