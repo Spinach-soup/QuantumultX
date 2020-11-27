@@ -5,47 +5,5 @@
   "icon": "https://avatars3.githubusercontent.com/u/73296135?s=400&u=9f7d1f3ef6afa99a5044a8e434b11521e8b97f09&v=4",
   "repo": "https://github.com/Spinach-soup/QuantumultX/TASK",
   "apps": [
-    {
-      "id": "领白条券",
-      "name": "京东白条",
-      "keys": ["yangtingxiao_sample"],
-      "settings": [
-        { "id": "yangtingxiao_sample", "name": "设置sample", "val": false, "type": "boolean", "desc": "设置样例" }
-      ],
-      "author": "@yangtingxiao",
-      "repo": "https://github.com/yangtingxiao/QuantumultX/tree/master/scripts/jd/",
-      "scripts":[
-        {
-          "name" : "天天领白条券",
-          "script" : "https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_baiTiao.js"
-        }
-      ],
-      "icons": ["https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/baitiao.png", "https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/baitiao.png"]
-	},
-    {
-      "id": "sharecode",
-      "name": "京东互助上车",
-      "keys": ["CFG_FRUITSHARECODE","CFG_JBEANSHARECODE"],
-      "settings": [
-        { "id": "CFG_FRUITSHARECODE", "name": "水果助力码", "val": "", "type": "textarea", "desc": "水果助力码集合,@符分割" },
-        { "id": "CFG_JBEANSHARECODE", "name": "种豆助力码", "val": "", "type": "textarea", "desc": "种豆助力码集合,@符分割" }
-      ],
-      "author": "@yangtingxiao",
-      "repo": "https://github.com/yangtingxiao/QuantumultX/tree/master/scripts/jd/",
-      "icons": ["https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png", "https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png"]
-    },
-    {
-      "id": "woHome",
-      "name": "东东小窝",
-      "settings": [
-        { "id": "CFG_WOHOME_LOG", "name": "显示出参详情", "val": false, "type": "boolean", "desc": "是否显示出参详情，默认不显示，仅调试时开启" },
-        { "id": "CFG_WOHOME_ADDCARTTASK", "name": "启用做加购任务", "val": true, "type": "boolean", "desc": "不希望购物车出现商品的可以关闭" },
-        { "id": "CFG_WOHOME_PAIDDRAW", "name": "启用窝币抽奖", "val": false, "type": "boolean", "desc": "是否启用窝币抽奖，默认仅做免费抽奖" }
-      ],
-      "author": "@yangtingxiao",
-      "repo": "https://github.com/yangtingxiao/QuantumultX/tree/master/scripts/jd/",
-      "script": "https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_woHome.js",
-      "icons": ["https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/woHome.png", "https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/woHome.png"]
-    }
   ]
 }
