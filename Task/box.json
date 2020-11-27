@@ -5,5 +5,17 @@
   "icon": "https://avatars3.githubusercontent.com/u/73296135?s=400&u=9f7d1f3ef6afa99a5044a8e434b11521e8b97f09&v=4",
   "repo": "https://github.com/Spinach-soup/QuantumultX/TASK",
   "apps": [
+    {
+      "id": "qqread",
+      "name": "企鹅读书",
+      "keys": ["CFG_FRUITSHARECODE","CFG_JBEANSHARECODE"],
+      "settings": [
+        { "id": "CFG_FRUITSHARECODE", "name": "水果助力码", "val": "", "type": "textarea", "desc": "水果助力码集合,@符分割" },
+        { "id": "CFG_JBEANSHARECODE", "name": "种豆助力码", "val": "", "type": "textarea", "desc": "种豆助力码集合,@符分割" }
+      ],
+      "author": "@yangtingxiao",
+      "repo": "https://github.com/yangtingxiao/QuantumultX/tree/master/scripts/jd/",
+      "icons": ["https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png", "https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png"]
+    }
   ]
 }
