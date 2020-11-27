@@ -8,14 +8,11 @@
     {
       "id": "qqread",
       "name": "企鹅读书",
-      "keys": ["CFG_FRUITSHARECODE","CFG_JBEANSHARECODE"],
-      "settings": [
-        { "id": "CFG_FRUITSHARECODE", "name": "水果助力码", "val": "", "type": "textarea", "desc": "水果助力码集合,@符分割" },
-        { "id": "CFG_JBEANSHARECODE", "name": "种豆助力码", "val": "", "type": "textarea", "desc": "种豆助力码集合,@符分割" }
-      ],
-      "author": "@yangtingxiao",
-      "repo": "https://github.com/yangtingxiao/QuantumultX/tree/master/scripts/jd/",
-      "icons": ["https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png", "https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png"]
+      "keys": ["qqreadurl","qqreadhd"qqreadbody","qqreadtimeurl","qqreadtimehd"],
+      "author": "@Spinach-soup",
+      "repo": "https://github.com/Spinach-soup/QuantumultX/TASK",
+      "script": "https://raw.githubusercontent.com/ziye12/JavaScript/master/qqread.js",
+      "icons": ["https://raw.githubusercontent.com/Orz-3/task/master/qqvip.png"]
     }
   ]
 }
