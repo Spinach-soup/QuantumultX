@@ -2,7 +2,7 @@
 10 0,20 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_necklace.js, tag=点点劵, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=false
 18 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_syj.js, tag=十元街, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=false
 15 * * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_dreamFactory.js, tag=京喜工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=false
-0 */3 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/dd_factory.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png, enabled=false
+0 */1 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/dd_factory.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png, enabled=false
 0 8 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_small_home.js, tag=东东小窝, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/woHome.png, enabled=false
 15 8 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_woHome.js, tag=东东小窝, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/woHome.png, enabled=false
 0 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/ddxw.js, tag=东东小窝, img-url=https://raw.githubusercontent.com/58xinian/icon/master/ddxw.png, enabled=false
@@ -41,7 +41,7 @@
 10 0 * * * https://raw.githubusercontent.com/XidNDD/2020scripts/master/jddsSign.js, tag=京东读书签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jdds.png, enabled=false
 #other
 */25 * * * * https://raw.githubusercontent.com/myouhi/QuantumultX/master/Task/wq.js, tag=哇圈, img-url=https://raw.githubusercontent.com/myouhi/QuantumultX/master/img/wq.png, enabled=false
-0 */2 * * * https://raw.githubusercontent.com/XidNDD/2020scripts/master/QQReadSign.js, tag=扣扣阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/QQ.png, enabled=false
+13 */2 * * * https://raw.githubusercontent.com/XidNDD/2020scripts/master/QQReadSign.js, tag=扣扣阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/QQ.png, enabled=false
 */11 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/qqread.js, tag=企鹅🐧读书, img-url=https://raw.githubusercontent.com/Orz-3/task/master/qqvip.png, enabled=false
 */20 * * * * https://raw.githubusercontent.com/xingliuchao/jd/main/QQread.js, tag=企鹅🐧读书, img-url=https://raw.githubusercontent.com/Orz-3/task/master/qqvip.png, enabled=false
 13 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/suning/suning.js, tag=苏宁易购, img-url=https://raw.githubusercontent.com/Orz-3/task/master/suning.png, enabled=false
@@ -61,7 +61,7 @@
 0 9,21 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/github.js, tag=GitHub, img-url=https://raw.githubusercontent.com/Orz-3/task/master/github.png, enabled=false
 0 9,21 * * * https://raw.githubusercontent.com/lowking/Scripts/master/github/githubMonitor.js, tag=github tg推送, img-url=https://raw.githubusercontent.com/Orz-3/task/master/github.png, enabled=false
 40 0 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js, tag=梨涡签到领现金, img-url=https://raw.githubusercontent.com/Orz-3/task/master/liwo.png, enabled=false
-*/30 8-23 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/lwtask.js, tag=梨涡闲时任务提醒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/liwo.png, enabled=false
+30 8-22 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/lwtask.js, tag=梨涡闲时任务提醒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/liwo.png, enabled=false
 12/30 0-8 * * * https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/wxdaka.js, tag=微信小程序打卡签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/qktx.png, enabled=false
 0 7 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js, tag=微博, img-url=https://raw.githubusercontent.com/Orz-3/task/master/weibo.png, enabled=false
 1 2 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Naixue/Naixue.js, tag=奈雪, img-url=https://raw.githubusercontent.com/Orz-3/task/master/Naixue.png, enabled=false
