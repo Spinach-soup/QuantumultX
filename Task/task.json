@@ -5,12 +5,12 @@
 13 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory.js, tag=京喜工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=false
 0 */4 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory_component.js, tag=京喜工厂plus, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=false
 10 8 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_story.js, tag=京喜金牌厂长, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=false
+8 9 * * * https://raw.githubusercontent.com/MoPoQAQ/Script/main/Me/jx_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=false
 1 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/dd_factory.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png, enabled=false
 0 8 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_small_home.js, tag=东东小窝, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/woHome.png, enabled=false
 15 8 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_woHome.js, tag=东东小窝, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/woHome.png, enabled=false
 0 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/ddxw.js, tag=东东小窝, img-url=https://raw.githubusercontent.com/58xinian/icon/master/ddxw.png, enabled=false
 0 8 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png, enabled=false
-8 9 * * * https://raw.githubusercontent.com/MoPoQAQ/Script/main/Me/jx_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=false
 2 0 * * * https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_paopao.js, tag=京东泡泡大战, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_paopao.png, enabled=false
 5,45 8 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/jdjr_pigpet_Unfinish.js, tag=东东养猪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyz.png, enabled=false
 22 0-12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pigPet.js, tag=金融养猪猪🐷, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyz.png, enabled=false
