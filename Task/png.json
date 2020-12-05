@@ -53,9 +53,9 @@
 13 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/suning/suning.js, tag=苏宁易购, img-url=https://raw.githubusercontent.com/Orz-3/task/master/suning.png
 5 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/jiumu/jiumu.js, tag=九木杂物社
 10 0 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/yiLi.js, tag=伊利乳品, img-url=https://raw.githubusercontent.com/id77/QuantumultX/master/icon/yiLi.png
-35 19 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/donate-step.js, tag=捐步
-15 11 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Alipay/Alipay.js, tag=收能量，积分, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z012.png
-30 17 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/yichahucha/cron_daily.js, tag=每日一句+蚂蚁森林收能量, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z012.png
+35 19 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/donate-step.js, tag=捐步, img-url=https://raw.githubusercontent.com/Orz-3/task/master/alipay.png
+15 11 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Alipay/Alipay.js, tag=收能量，积分, img-url= https://raw.githubusercontent.com/Orz-3/task/master/alipay.png
+30 17 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/yichahucha/cron_daily.js, tag=每日一句+蚂蚁森林收能量, img-url= https://raw.githubusercontent.com/Orz-3/task/master/alipay.png
 0 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/backUp/webhook.js, tag=运行action, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z012.png
 5 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js, tag=中国联通, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10010.png
 15 17 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/backUp/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png
