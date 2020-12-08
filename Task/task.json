@@ -47,7 +47,7 @@
 #other
 18 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js, tag=吾爱破解, img-url=https://raw.githubusercontent.com/Orz-3/task/master/52pj.png, enabled=false
 */25 * * * * https://raw.githubusercontent.com/myouhi/QuantumultX/master/Task/wq.js, tag=哇圈, img-url=https://raw.githubusercontent.com/myouhi/QuantumultX/master/img/wq.png, enabled=false
-13 */2 * * * https://raw.githubusercontent.com/XidNDD/2020scripts/master/QQReadSign.js, tag=扣扣阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/QQ.png, enabled=false
+13 */2 * * * https://raw.githubusercontent.com/XidNDD/2020scripts/master/QQReadSign.js, tag=扣扣阅读, img-url=https://raw.githubusercontent.com/58xinian/icon/master/QQReadSign.png, enabled=false
 */11 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/qqread.js, tag=企鹅🐧读书, img-url=https://raw.githubusercontent.com/Orz-3/task/master/qqvip.png, enabled=false
 */20 * * * * https://raw.githubusercontent.com/xingliuchao/jd/main/QQread.js, tag=企鹅🐧读书, img-url=https://raw.githubusercontent.com/Orz-3/task/master/qqvip.png, enabled=false
 13 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/suning/suning.js, tag=苏宁易购, img-url=https://raw.githubusercontent.com/Orz-3/task/master/suning.png, enabled=false
